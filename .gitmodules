@@ -22,3 +22,36 @@
 [submodule "JsonPath"]
 	path = JsonPath
 	url = https://github.com/jayway/JsonPath.git
+[submodule "fest-assert-2.x"]
+	path = fest-assert-2.x
+	url = https://github.com/alexruiz/fest-assert-2.x.git
+[submodule "assertj-core"]
+	path = assertj-core
+	url = https://github.com/joel-costigliola/assertj-core.git
+[submodule "assertj-joda-time"]
+	path = assertj-joda-time
+	url = https://github.com/joel-costigliola/assertj-joda-time.git
+[submodule "assertj-guava"]
+	path = assertj-guava
+	url = https://github.com/joel-costigliola/assertj-guava.git
+[submodule "JUnitParams"]
+	path = JUnitParams
+	url = https://github.com/Pragmatists/JUnitParams.git
+[submodule "easytest-core"]
+	path = easytest-core
+	url = https://github.com/EaseTech/easytest-core.git
+[submodule "easytest-spring"]
+	path = easytest-spring
+	url = https://github.com/EaseTech/easytest-spring.git
+[submodule "easymock"]
+	path = easymock
+	url = https://github.com/easymock/easymock.git
+[submodule "pitest"]
+	path = pitest
+	url = https://github.com/hcoles/pitest.git
+[submodule "catch-exception"]
+	path = catch-exception
+	url = https://github.com/Codearte/catch-exception.git
+[submodule "tempus-fugit"]
+	path = tempus-fugit
+	url = https://github.com/tobyweston/tempus-fugit.git
