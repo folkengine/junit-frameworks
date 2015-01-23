@@ -1,0 +1,24 @@
+[submodule "junit"]
+	path = junit
+	url = https://github.com/junit-team/junit.git
+[submodule "junit-lambda"]
+	path = junit-lambda
+	url = https://github.com/junit-team/junit-lambda.git
+[submodule "junit.contrib"]
+	path = junit.contrib
+	url = https://github.com/junit-team/junit.contrib.git
+[submodule "mockito"]
+	path = mockito
+	url = https://github.com/mockito/mockito.git
+[submodule "hamcrest-junit"]
+	path = hamcrest-junit
+	url = https://github.com/hamcrest/hamcrest-junit.git
+[submodule "JavaHamcrest"]
+	path = JavaHamcrest
+	url = https://github.com/hamcrest/JavaHamcrest.git
+[submodule "powermock"]
+	path = powermock
+	url = https://github.com/jayway/powermock.git
+[submodule "JsonPath"]
+	path = JsonPath
+	url = https://github.com/jayway/JsonPath.git
