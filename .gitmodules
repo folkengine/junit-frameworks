@@ -58,3 +58,6 @@
 [submodule "testng"]
 	path = testng
 	url = https://github.com/cbeust/testng.git
+[submodule "_lang/groovy/spock"]
+	path = _lang/groovy/spock
+	url = https://github.com/spockframework/spock.git
