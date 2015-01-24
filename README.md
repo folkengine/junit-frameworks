@@ -38,3 +38,4 @@ Bibliography
 ============
 * [xUnit Test Patterns: Refactoring Test Code](http://www.amazon.com/gp/product/0131495054/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0131495054&linkCode=as2&tag=folkengine-20&linkId=N5R3PC6EVMNTATYP)
 * [Pragmatic Unit Testing in Java 8 with JUnit](http://www.amazon.com/gp/product/1941222595/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1941222595&linkCode=as2&tag=folkengine-20&linkId=JBO3TSZVKW45R4O6)
+* [JUnit in Action 2Ed](http://www.amazon.com/gp/product/1935182021/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1935182021&linkCode=as2&tag=folkengine-20&linkId=YEDJLJPALDUKTN2W)
