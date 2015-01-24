@@ -61,3 +61,12 @@
 [submodule "_lang/groovy/spock"]
 	path = _lang/groovy/spock
 	url = https://github.com/spockframework/spock.git
+[submodule "_lang/scala/specs2"]
+	path = _lang/scala/specs2
+	url = https://github.com/etorreborre/specs2.git
+[submodule "_lang/scala/scalatest"]
+	path = _lang/scala/scalatest
+	url = https://github.com/scalatest/scalatest.git
+[submodule "_lang/scala/scalacheck"]
+	path = _lang/scala/scalacheck
+	url = https://github.com/rickynils/scalacheck.git

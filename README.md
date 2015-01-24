@@ -18,6 +18,16 @@ Submodules
 * [JUnitParams](http://pragmatists.github.io/JUnitParams/)
 * [tempus-fugit](http://tempusfugitlibrary.org/)
 
+Groovy
+------
+* [Spock](http://code.google.com/p/spock/)
+
+Scala
+-----
+* [specs2](http://etorreborre.github.io/specs2/)
+* [ScalaCheck](http://www.scalacheck.org/)
+* [ScalaTest](http://www.scalatest.org/)
+
 Links
 =====
 * [xUnit Test Patterns](http://xunitpatterns.com/)
