@@ -22,9 +22,6 @@
 [submodule "JsonPath"]
 	path = JsonPath
 	url = https://github.com/jayway/JsonPath.git
-[submodule "fest-assert-2.x"]
-	path = fest-assert-2.x
-	url = https://github.com/alexruiz/fest-assert-2.x.git
 [submodule "assertj-core"]
 	path = assertj-core
 	url = https://github.com/joel-costigliola/assertj-core.git
