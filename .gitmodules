@@ -52,3 +52,9 @@
 [submodule "tempus-fugit"]
 	path = tempus-fugit
 	url = https://github.com/tobyweston/tempus-fugit.git
+[submodule "cucumber-jvm"]
+	path = cucumber-jvm
+	url = https://github.com/cucumber/cucumber-jvm.git
+[submodule "testng"]
+	path = testng
+	url = https://github.com/cbeust/testng.git
